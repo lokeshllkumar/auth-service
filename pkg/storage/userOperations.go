@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"fmt"
 
-	"github.com/lokeshllkumar/auth-service/utils"
+	"github.com/lokeshllkumar/auth-service/pkg/utils"
 )
 
 func (db *DB) AddUser(username string, password string) error {

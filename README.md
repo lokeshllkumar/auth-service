@@ -1,2 +1,2 @@
 # auth-service
-An authentication service leveraging JWTs and implementing OAuth2.0 written in Go. 
+An authentication service implementing JWT authentication and OAuth2.0 authorization written in Go.
